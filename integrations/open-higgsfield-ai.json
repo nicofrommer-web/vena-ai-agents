@@ -1,0 +1,10 @@
+{
+  "name": "open-higgsfield-ai",
+  "upstream": "https://github.com/Anil-matcha/Open-Higgsfield-AI",
+  "enabled": false,
+  "mode": "reference-only",
+  "network": false,
+  "paidCalls": false,
+  "credentialsConfigured": false,
+  "notes": "No SDK or upstream code installed. Provider calls intentionally blocked."
+}
